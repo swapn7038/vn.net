@@ -1,0 +1,12 @@
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.register.resources
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\bin\Debug\cafe.accdb
+C:\Users\ADMIN 26\Desktop\swapnil\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
